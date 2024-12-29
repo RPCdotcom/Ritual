@@ -48,3 +48,14 @@ docker-compose --version
 sudo groupadd docker
 sudo usermod -aG docker $USER
 ```
+
+## 5. Dosyaları Çekelim : 
+
+```bash
+git clone https://github.com/ritual-net/infernet-container-starter
+```
+- Dosyanın içine girelim ;
+
+```bash
+cd infernet-container-starter
+```
