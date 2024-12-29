@@ -59,3 +59,19 @@ git clone https://github.com/ritual-net/infernet-container-starter
 ```bash
 cd infernet-container-starter
 ```
+
+## Screen Açalım ; 
+
+```bash
+screen -S ritual
+```
+
+## Deploy ; 
+
+```bash
+project=hello-world make deploy-container
+```
+
+- CTRL A + D ile screenden çıkalım.
+
+
