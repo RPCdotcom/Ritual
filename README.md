@@ -13,6 +13,10 @@ Tavsiye Edilen :
 
 - ∞+ CPU ( Hızlı ) / ∞+ GB RAM / ∞+ MBit/sec İndirme Hızı 
 
+
+![image](https://github.com/user-attachments/assets/c4b88471-962f-41f3-bf31-65a9b349655a)
+
+
 Sistem paketlerini güncellemek ve yükseltmek için aşağıdaki komutu çalıştırın:
 
 ```bash
